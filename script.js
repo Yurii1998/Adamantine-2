@@ -1,5 +1,5 @@
-const apiKey = 'YOUR_BSCSCAN_API_KEY'; // Replace with your BscScan API key
-const contractAddress = 'YOUR_TOKEN_CONTRACT_ADDRESS'; // Replace with Adamantine 2 token contract address
+const apiKey = N12IE6KTKIYMB5M5VNJJVRUWTVCQSVERKT
+const contractAddress = N12IE6KTKIYMB5M5VNJJVRUWTVCQSVERKT
 
 // Fetch Token Data from BscScan API
 async function fetchTokenData() {
